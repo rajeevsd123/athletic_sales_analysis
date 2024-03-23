@@ -1,5 +1,7 @@
 
-### Import Libraries and Dependencies
+# Analyze sales data to gain insights
+
+#### Import Libraries and Dependencies
 ```python
 import pandas as pd
 from pathlib import Path
